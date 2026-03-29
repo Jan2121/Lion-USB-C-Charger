@@ -13,6 +13,14 @@ The PCB is designed to:
 - DW01A
 - TPS631000
 
+## Expected Current Draw
+If the PCB is connected to a battery only.
+TP4056 -> 2uA
+DW01A -> 3uA
+TPS631000 -> 8uA 
+Resistor devider -> 5uA
+Total -> 18uA 
+
 ## Current Status
 
 This version has been ordered and has not been tested yet.

@@ -1,5 +1,5 @@
 # Lion-Schutz
-
+The goal of this PCB is to power small uC based projects with Lithium Ion Batterys. for that purpose there is a USB-C charger an Lion protection ICs and an dcdc for a stable output voltage on board.
 This is a hobby electronics project.
 
 The PCB is designed to:

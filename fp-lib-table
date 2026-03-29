@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Custom_USB_C_Footprint") (type "KiCad") (uri "${KIPRJMOD}/Bibliotheken/Custom_USB_C_Footprint.pretty") (options "") (descr ""))
+)

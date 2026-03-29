@@ -4,6 +4,11 @@
 	(generator_version "10.0")
 	(uuid "22536eb2-bbf5-4534-9ba3-bb97be842067")
 	(paper "A4")
+	(title_block
+		(title "Lion Schutz PCB")
+		(date "2026-03-29")
+		(rev "0.1")
+	)
 	(lib_symbols
 		(symbol "Battery_Management:DW01A"
 			(exclude_from_sim no)
